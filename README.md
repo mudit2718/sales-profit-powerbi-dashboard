@@ -18,7 +18,8 @@ The dashboard enables users to monitor KPIs, identify sales trends, evaluate cus
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](<img width="1662" height="852" alt="Screenshot 2026-07-23 002828" src="https://github.com/user-attachments/assets/9bb0ac1b-1835-421f-b04e-445325d48dc7" />
+
 
 ---
 
@@ -114,8 +115,8 @@ Sales-Profit-PowerBI-Dashboard
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard
+<img width="1662" height="852" alt="Screenshot 2026-07-23 002828" src="https://github.com/user-attachments/assets/c10924da-9a3b-4598-8c2b-21ccce5849dc" />
 
-(Add another screenshot here)
 
 ---
 
@@ -125,9 +126,9 @@ Sales-Profit-PowerBI-Dashboard
 
 📧 Email: Your Email
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: |  linkedin.com/in/mudit-dhawane-bb6aa2365
 
-🌐 GitHub: https://github.com/your-username
+🌐 GitHub: https://github.com/mudit2718
 
 ---
 
